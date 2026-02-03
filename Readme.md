@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Krishna Gurung
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
@@ -12,7 +12,7 @@ I am a passionate student developer currently learning **Web Development** at **
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Anything! I'm happy to help**
 - ⚡ Fun fact: **I love debugging until midnight!**e
-- 👨‍🏫 Mentored by: [Saroj Adhikari](https://github.com/adhikarisaroj795)
+- 👨‍🏫 Mentored by: Krishna Gurung(https://github.com/adhikarisaroj795)
 
 ---
 
@@ -38,7 +38,7 @@ I am a passionate student developer currently learning **Web Development** at **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhikarisaroj795&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github.com/gurshing10-max/readme_template" alt="GitHub Streak Stats" />
 </p>
 
 ---
